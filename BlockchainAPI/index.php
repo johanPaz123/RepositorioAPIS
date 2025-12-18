@@ -116,9 +116,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['simbolo'])) {
             </select>
 
             <label>Cantidad a convertir:</label>
-            <input type="number" step="any" name="cantidad" value="
-        <?php echo $_POST['cantidad'] ?? ''; ?>
-        " required>
+            <input type="number" step="any" name="cantidad" value="<?php echo $_POST['cantidad'] ?? ''; ?>" required>
 
             <button type="submit">Calcular</button>
         </form>
