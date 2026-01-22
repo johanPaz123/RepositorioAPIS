@@ -1,0 +1,36 @@
+[
+  {
+    "latitude": 42.346111,
+    "longitude": -7.864167,
+    "name": "Ourense Cathedral",
+    "url": "https://en.wikipedia.org/wiki/Ourense_Cathedral"
+  },
+
+  {
+    "latitude": 42.334611,
+    "longitude": -7.865308,
+    "name": "As Burgas",
+    "url": "https://en.wikipedia.org/wiki/As_Burgas"
+  },
+
+  {
+    "latitude": 42.3457,
+    "longitude": -7.8742,
+    "name": "Ponte do Milenio",
+    "url": "https://gl.wikipedia.org/wiki/Ponte_do_Milenio"
+  },
+
+  {
+    "latitude": 42.345452,
+    "longitude": -7.868764,
+    "name": "Ponte Vella",
+    "url": "https://es.wikipedia.org/wiki/Puente_romano_de_Orense"
+  },
+
+  {
+    "latitude": 42.331222,
+    "longitude": -7.864114,
+    "name": "Jardín del Posío",
+    "url": "https://es.wikipedia.org/wiki/Jard%C3%ADn_del_Pos%C3%ADo"
+  }
+]

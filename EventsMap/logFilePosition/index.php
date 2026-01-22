@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['lat'], $_POST['lng'])
     $fileWriter = fopen($logFile, 'a');
 
     if ($fileWriter) {
-        $log_entry = "[$fecha] Latitud : $lat, Longitud : $lng";
+        $log_entry = "[$fecha] Latitud : $lat, Longitud : $lng \n";
         fwrite($fileWriter, $log_entry);
         fclose($fileWriter);
     }

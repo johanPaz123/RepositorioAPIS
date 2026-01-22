@@ -1,0 +1,5 @@
+42.346111#-7.864167#Ourense Cathedral#https://en.wikipedia.org/wiki/Ourense_Cathedral
+42.334611#-7.865308#As Burgas#https://en.wikipedia.org/wiki/As_Burgas
+42.345700#-7.874200#Ponte do Milenio#https://gl.wikipedia.org/wiki/Ponte_do_Milenio
+42.345452#-7.868764#Ponte Vella#https://es.wikipedia.org/wiki/Puente_romano_de_Orense
+42.331222#-7.864114#Jardín del Posío#https://es.wikipedia.org/wiki/Jard%C3%ADn_del_Pos%C3%ADo
